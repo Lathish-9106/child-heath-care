@@ -20,11 +20,10 @@ MindBloom is a web application that helps **parents, teachers, and school counse
 
 | Layer | Technology |
 |---|---|
-| Frontend | React 19 + Vite |
+| Frontend | HTML5 CSS5 JS |
 | Styling | Tailwind CSS |
-| Charts | Chart.js + react-chartjs-2 |
-| Database | Firebase Realtime Database |
-| AI Chatbot | Google Gemini 2.5 Flash API |
+| Charts | Chart.js |
+| AI Chatbot | Google Gemini 3.1 PRO API |
 | Hosting | Firebase Hosting |
 
 ---
